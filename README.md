@@ -8,7 +8,7 @@
 
 ## Languages
 
-[![Rust](https://img.shields.io/badge/Pawn-dbb284?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/pawn-lang)
+[![Rust](https://img.shields.io/badge/Pawn-dbb284?style=for-the-badge&logo=pawn&logoColor=white)](https://github.com/pawn-lang)
 
 ## Database Tools
 
